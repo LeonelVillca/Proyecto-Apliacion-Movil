@@ -70,7 +70,7 @@ Con el backend en funcionamiento y la aplicación Android compilada y ejecutánd
 
 ## Problemas Comunes
 
-- **Error de conexión con la base de datos**: Asegúrate de que las credenciales y la URL de la base de datos en el archivo `.env` son correctas.
+- **Error de conexión con la base de datos**: Asegúrate de que las credenciales y la URL de la base de datos en el archivo `db.ts` son correctas.
 - **Error de compilación en Android Studio**: Verifica que todas las dependencias están instaladas y que tu SDK de Android está actualizado.
 
 ## Contribuir
