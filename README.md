@@ -2,14 +2,15 @@
 # Expreso Arequipa
 
 ## Descripción
-Este proyecto fue desarrolado por un grupo de 5 jovenes Universitarios de la carrera de Ing. Informatica de la Universidad Autonoma Juan Misael Saracho.
+Este proyecto fue desarrolado por un grupo de 6 jovenes Universitarios de la carrera de Ing. Informatica de la Universidad Autonoma Juan Misael Saracho.
 El proyecto consiste en una aplicación Android y un backend desarrollado en Node.js/NestJS, junto con los esquemas de bases de datos necesarios. La aplicación permite la reserva de voletos para un empresa de de buses interprovinciales "Expreso Arequipa"
 
 ## Requisitos
 - [Android Studio](https://developer.android.com/studio)
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
-- [PostgreSQL](https://www.postgresql.org/) 
+- [PostgreSQL](https://www.postgresql.org/)
+- [Express](https://expressjs.com/) 
 
 ## Instalación
 
@@ -24,7 +25,7 @@ cd tu-repositorio
     
     cd Sistema_Backend
 
-2. Configura las variables de entorno creando un archivo `.env` en el directorio `backend` con el siguiente contenido 
+2. Configura las variables de entorno creando un archivo `db.ts` en el directorio `backend` con el siguiente contenido 
 
     type: "postgres",
     host: "localhost",
@@ -36,7 +37,7 @@ cd tu-repositorio
 
 4. Inicia el servidor:
 
-    npm start
+    npm run dev
 
 ### Configuración de la Aplicación Android
 
