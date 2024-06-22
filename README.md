@@ -44,8 +44,9 @@ cd tu-repositorio
 1. Abre Android Studio.
 2. Selecciona `File > Open` y navega a `tu-repositorio/android`.
 3. Permite que Android Studio configure el proyecto y descargue las dependencias necesarias.
-4. Conecta un dispositivo Android o inicia un emulador.
-5. Compila y ejecuta la aplicación.
+4. Dirigete a WebService.kt y hay en la parte de url cambia la ip de hay por la ip de tu ordenador y el puerto es el mismo
+5. Conecta un dispositivo Android o inicia un emulador.
+6. Compila y ejecuta la aplicación.
 
 ### Configuración de la Base de Datos
 
@@ -66,7 +67,7 @@ Con el backend en funcionamiento y la aplicación Android compilada y ejecutánd
 ## Uso
 
 1. Al entrar al Sistema podras crear tu cuenta con un usuario y tu correro electronico para despues loguearte con ese mismo usuario y contraseña de tu correro.
-2. Una ves dentro podras visualizar los diferntes viajes disponibles o cercanos de la empresa y podras reservarlos
+2. Una ves dentro podras visualizar los diferentes viajes disponibles o cercanos de la empresa y podras reservarlos
 
 ## Problemas Comunes
 
