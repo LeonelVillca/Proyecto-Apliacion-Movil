@@ -37,7 +37,9 @@ cd tu-repositorio
 
 4. Inicia el servidor:
 
-    npm run dev
+   - npm run build
+   - npm run start
+   
 
 ### Configuración de la Aplicación Android
 
